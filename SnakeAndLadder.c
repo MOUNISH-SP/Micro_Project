@@ -9,7 +9,7 @@ struct Name{
 int game_board(int box){
 	switch(box){
 		case 4:
-			printf("you have ladder,so you are safe\n");
+			printf("you have ladder,so you are very safe\n");
 			return 22;
 			break;
 		case 8:
